@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "641404752796",
+    "project_id": "rook-25867",
+    "storage_bucket": "rook-25867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641404752796:android:249341a00cca6282356e59",
+        "android_client_info": {
+          "package_name": "com.mycompany.rook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641404752796-pqclni297pfumefikss0ns0rv70frjh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.rook",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "641404752796-r5dfckrpg1qfool1tscm71gcj3sqtlve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIvhlNCoMTNHAMusMpyHfhONeim3GdBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641404752796-5id50ugkkouer0jpeeoinmodk6qidl0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641404752796-o302ohueo8j403n1f7qo991g630728tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rook2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641404752796:android:7f2b0e01553f384a356e59",
+        "android_client_info": {
+          "package_name": "com.mycompany.rook2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641404752796-r5dfckrpg1qfool1tscm71gcj3sqtlve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIvhlNCoMTNHAMusMpyHfhONeim3GdBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641404752796-5id50ugkkouer0jpeeoinmodk6qidl0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641404752796-o302ohueo8j403n1f7qo991g630728tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rook2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
